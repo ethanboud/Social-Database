@@ -3,14 +3,18 @@
 
 ## Description
 This is an application that utilizes MongoDB for API calls to the database for various CRUD inputs. It involves the creation of users, the creation of thoughts of those users, reactions of the thoughts of the users, and friends of users. Each aspect includes inputs to create, read, update, and delete. 
-
+* Click [here](https://drive.google.com/file/d/1SLpI9YKI_aNZWmLZ3VRyBy1nus0ZBo15/view?usp=sharing) to see a demonstration video.
+  
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [Test](#test)
-- [License](#license)
-- [Questions](#questions)
+- [Social Network Database](#social-network-database)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contribution](#contribution)
+  - [Test](#test)
+  - [License](#license)
+  - [Questions](#questions)
 
 ## Installation
 Download the files and open the terminal at the "main" level. Once here, run "npm i" to download all dependencies. 
